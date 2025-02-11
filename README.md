@@ -1,4 +1,4 @@
-## Hi there 👋
+#Mihaela P.
 
 <!--
 **mihaela336/mihaela336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Web Developer | Node.js, .NET & React 
+
+- Developing APIs and backend systems with Node.js and .NET  
+- Front-end development with React  
+- Experience in automotive sector
+
+Passionate about web development, robotics, and IoT. 

@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 Web Developer | Node.js, .NET & React 
 
-- Developing APIs and backend systems with Node.js and .NET  
-- Front-end development with React  
-- Experience in automotive sector
+
+
+Developing APIs and backend systems with Node.js and .NET  
+Front-end development with React  
+Experience in automotive sector
 
 Passionate about web development, robotics, and IoT. 

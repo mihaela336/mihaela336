@@ -5,7 +5,7 @@ platforms, and development tools to create dynamic and responsive web applicatio
 
 ###  What I’ve Been Working On
 
--  **Green Parking** – EV charging and smart parking management platform with a .NET backend, real-time features, and a React web interface. *(Sibiu Innovation Days 2023 Winner)*
+-  **Green Parking** – EV charging and smart parking management platform with a .NET backend, real-time features, and a React web interface. *(Sibiu Innovation Days 2023)*
 -  **Voice-Controlled Autonomous Robots** – Mobile + embedded system controlling robots using speech recognition and IoT (Innovation Labs 2022).
 -  **Vision Software** – AI-powered inventory tracking using machine vision and video analytics.
 
